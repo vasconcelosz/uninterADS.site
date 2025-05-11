@@ -1,0 +1,47 @@
+body {
+ background-color: #e6f2ff;
+ font-family: Arial, sans-serif;
+ padding: 20px;
+}
+
+h1 {
+ color: #1a4f7c;
+ text-align: center;
+}
+
+p {
+ font-size: 18px;
+ text-align: justify;
+}
+
+ul li {
+ margin-bottom: 10px;
+}
+
+img{
+    border-radius: 12px;
+    width: 200px;
+    height: auto;
+    margin: 20px 0;
+}
+
+table {
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table td {
+    border: 1px solid #888;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    color: #0055aa;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
